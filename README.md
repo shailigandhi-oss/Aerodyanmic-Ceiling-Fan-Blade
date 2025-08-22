@@ -51,7 +51,7 @@ Conventional fan blades use a constant angle of attack and inefficient profiles,
 ---
 
 
----
+
 
 ### 📚 Learning Outcomes  
 - Application of **aerodynamic principles (NACA 4412)** in consumer product design.  
